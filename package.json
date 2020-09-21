@@ -1,0 +1,12 @@
+{
+  "name": "donttype",
+  "description": "A Discord bot filled with hatred.",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "12.2.0"
+  }
+}
